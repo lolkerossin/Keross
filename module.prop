@@ -1,7 +1,7 @@
-id=systemless-hosts
-name=Systemless Hosts - Unified
-version=17.2-240906
-versionCode=172
-author=gloeyisk
-description=An efficient ad blocker, with no user interface
-updateJson=https://raw.githubusercontent.com/gloeyisk/systemless-hosts/master/module.json
+id=keross
+name=keross
+version=1
+versionCode=1
+author=lolkerossin
+description=Disable "security" updates in TiktokModCloud or TikTokUpdatez modification 
+updateJson=http://127.0.0.1/0.json
