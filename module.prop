@@ -4,4 +4,4 @@ version=1
 versionCode=1
 author=lolkerossin
 description=Disable "security" updates in TiktokModCloud or TikTokUpdatez modification 
-updateJson=http://127.0.0.1/0.json
+updateJson=https://raw.githubusercontent.com/lolkerossin/Keross/refs/heads/master/module.json
